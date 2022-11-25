@@ -10,6 +10,6 @@ chief marketing officer wants to know whether the list should only include the p
 purchased more than once.
 ## Customer Questions
 The marketing team would like to answer the following questions to help with the decision:
-● How many products are being purchased more than once?
-● Do the products being purchased again have better sales than others?
-● What products are more likely to be purchased again for different types of pets?
+* How many products are being purchased more than once?
+* Do the products being purchased again have better sales than others?
+* What products are more likely to be purchased again for different types of pets?
