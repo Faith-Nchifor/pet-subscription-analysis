@@ -13,3 +13,7 @@ The marketing team would like to answer the following questions to help with the
 * How many products are being purchased more than once?
 * Do the products being purchased again have better sales than others?
 * What products are more likely to be purchased again for different types of pets?
+
+## My Findings
+
+1. 52.6% of the products have re-buys.
