@@ -16,4 +16,11 @@ The marketing team would like to answer the following questions to help with the
 
 ## My Findings
 
-1. 52.6% of the products have re-buys.
+My findings are published on my datacamp workspace. It can be found Using this link; https://app.datacamp.com/workspace/w/9d141163-d5ad-49ed-8814-e1c1015cd969
+1. 52.6% of the products have re-buys. This is shown below
+2. The total sales for products with re-buys is USD 42,202000 and is actually lower than the sales for products without re-buys USD 46,264000
+3. More than 200 of the products have a rating of 10 as shown below
+4. For Cat Products, product '4599' is likely to be purchased again since it has the highest sale (230,000)
+5. For Dog Products, products '4362' and '4460' are likely to be purchased again since they have the highest sales  (229,000)
+6. For Fish Products, product '5020' is likely to be purchased again since it has the highest sale (226,000) 
+
